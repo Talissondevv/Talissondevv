@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Talisson</h1>
 <h3>A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Caopativel**
+- 🔭 I’m currently working on **Caopativel** and **TransiScale**
 
 - 📫 How to reach me **talissonfelipedesouzafaria@gmail.com**
 
