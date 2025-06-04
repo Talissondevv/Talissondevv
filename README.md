@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **TransiScale**
 
-- 📫 How to reach me:
-  - **talissonfelipedesouzafaria@gmail.com**
-  - **talissonfelipedesouzafaria@outlook.com**
+- 📫 How to reach me: **talissonfelipedesouzafaria@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
